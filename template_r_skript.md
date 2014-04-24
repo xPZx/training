@@ -1,7 +1,9 @@
 **name**
+==========================================
 plot cars
 
 **Description**
+==========================================
 A simple script to plot the car dataset of R
 
 **Usage**
