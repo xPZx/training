@@ -1,0 +1,32 @@
+**name**
+-------------------------
+plot uspop
+
+**description**
+-------------------------
+A script to plot the uspop dataset of R
+
+**usage**
+call the function line by line
+
+**input**
+uspop (dataset yet implemented in R)
+
+**output**
+1. plot Time vs uspop
+2. give information of variables (console)
+
+**author**
+Pascal Zissler
+
+**plot Time vs uspop**
+
+```{r}
+plot(uspop)
+```
+
+**informationen zu den variablen**
+
+```{r}
+str(uspop)
+```
